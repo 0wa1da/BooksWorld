@@ -1,24 +1,17 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import DiscoveryPage from './pages/discoverypage/DiscoveryPage';
+import Header from "./component/header/Header";
+// booklist with search ability, show details when click on
+// favorite list and recents  : get access when sign in 
+// sign in and sign up page  - can sign up -
+// readers' forum page, posts, replays and likes 
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header/>
+      <DiscoveryPage/>
     </div>
   );
 }

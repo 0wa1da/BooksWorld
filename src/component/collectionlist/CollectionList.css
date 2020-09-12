@@ -1,0 +1,12 @@
+.collectionlist-container{
+    box-sizing: border-box;
+    padding : 20px 10vw;  
+    background-color: aliceblue; 
+    display: flex;
+    flex-wrap: wrap;
+
+
+    justify-content:center;
+    width: 85vw;
+    margin: 20px auto;
+}
