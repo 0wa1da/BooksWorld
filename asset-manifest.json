@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BooksWorld/static/css/main.66b884fd.chunk.css",
+    "main.js": "/BooksWorld/static/js/main.87ddc908.chunk.js",
+    "main.js.map": "/BooksWorld/static/js/main.87ddc908.chunk.js.map",
+    "runtime-main.js": "/BooksWorld/static/js/runtime-main.0059b016.js",
+    "runtime-main.js.map": "/BooksWorld/static/js/runtime-main.0059b016.js.map",
+    "static/js/2.a68b9c06.chunk.js": "/BooksWorld/static/js/2.a68b9c06.chunk.js",
+    "static/js/2.a68b9c06.chunk.js.map": "/BooksWorld/static/js/2.a68b9c06.chunk.js.map",
+    "index.html": "/BooksWorld/index.html",
+    "precache-manifest.f3e04db0453ebfe830614d6c438185ca.js": "/BooksWorld/precache-manifest.f3e04db0453ebfe830614d6c438185ca.js",
+    "service-worker.js": "/BooksWorld/service-worker.js",
+    "static/css/main.66b884fd.chunk.css.map": "/BooksWorld/static/css/main.66b884fd.chunk.css.map",
+    "static/js/2.a68b9c06.chunk.js.LICENSE.txt": "/BooksWorld/static/js/2.a68b9c06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0059b016.js",
+    "static/js/2.a68b9c06.chunk.js",
+    "static/css/main.66b884fd.chunk.css",
+    "static/js/main.87ddc908.chunk.js"
+  ]
+}
